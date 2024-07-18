@@ -28,6 +28,11 @@ Eraser: Click the "Eraser" button to switch to the eraser tool. Use the dropdown
 Clear Canvas: Click the "Clear" button to clear the entire canvas and start a new drawing.
 
 
+FUTURE ENHANCEMENTS:
+1.Making the application capable to save the data.
+2.Adding more paint like features.
+
+
 CODE OVERVIEW:
 BasicPaintApp: The main class that sets up the application window and contains the main method.
 DrawingPanel: A custom JPanel where the drawing operations are handled.
