@@ -27,6 +27,10 @@ Brush Size: Use the dropdown menu to select the desired brush size.
 Eraser: Click the "Eraser" button to switch to the eraser tool. Use the dropdown menu to adjust the eraser size.
 Clear Canvas: Click the "Clear" button to clear the entire canvas and start a new drawing.
 
+FUTURE ENHANCEMENTS:
+1.Let User save their work(data).
+2.Try to introduce all the required features of the paint application.
+
 
 CODE OVERVIEW:
 BasicPaintApp: The main class that sets up the application window and contains the main method.
